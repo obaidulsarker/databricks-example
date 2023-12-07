@@ -250,7 +250,8 @@ To perform the data processing and analysis in this example, create a cluster to
     6.23 To run the workflow, Click Run Now Button. To view details for the run, click the link in the Start time column for the run in the job runs view. Click each task to view details for the task run.
 
     6.24 To view the results when the workflow completes, click the final data analysis task. The Output page appears and displays the query results.
-
+    
+![plot](./pipeline.PNG)
 
 ## Step 7: Schedule the data pipeline job
 
@@ -266,3 +267,4 @@ To perform the data processing and analysis in this example, create a cluster to
 
     7.5 Click Save.
 
+![plot](./job_schedule.PNG)
