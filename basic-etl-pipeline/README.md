@@ -98,3 +98,5 @@ To schedule your notebook as a task:
 
   5.7 To see the job run results, click the External Link icon next to the Last run timestamp.
 
+![plot](./basic_etl_pipeline_schedule.PNG)
+
